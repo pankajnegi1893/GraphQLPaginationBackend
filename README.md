@@ -6,7 +6,6 @@ This project used GraphQL to send Data to frontend App. Currently This project u
 - MacOS Mojave 10.14.3
 - Node 11.8.0
 - npm 6.5.0
-- react-native-cli 2.0.1
 
 ### Running the project:-
 1. Clone the project.
@@ -15,6 +14,7 @@ This project used GraphQL to send Data to frontend App. Currently This project u
 4. Run with `npm start`.
 5. goto browser and paste url http://localhost:3000/graphql
 6. paste below query:- 
+
     `query ($page_number: Int!, $limit: Int!){
     getBookings(page_number: $page_number,  limit: $limit){
       address
@@ -29,6 +29,7 @@ This project used GraphQL to send Data to frontend App. Currently This project u
   }`
 
   use Query variable :- 
+  
   `{
     "page_number": 3,
     "limit": 5
