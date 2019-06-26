@@ -28,7 +28,7 @@ This project used GraphQL to send Data to frontend App. Currently This project u
     }
   }`
 
-  use Query variable :- 
+7.  use Query variable :- 
   
   `{
     "page_number": 3,
