@@ -3,7 +3,7 @@
 This project used GraphQL to send Data to frontend App. Currently This project uses Firestore to get data.
 
 ### Development Environment 
-- MacOS Mojave 10.14.3
+- MacOS Mojave 10.14.5
 - Node 11.8.0
 - npm 6.5.0
 
