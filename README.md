@@ -7,7 +7,7 @@ This project used GraphQL to send Data to frontend App. Currently This project u
 - Node 11.8.0
 - npm 6.5.0
 
-### Running the project:-
+### Running the project
 1. Clone the project.
 2. navigate to projectDirectory folder using `cd projectDirectory`.
 3. Install dependencies with `npm install`.
@@ -35,3 +35,6 @@ This project used GraphQL to send Data to frontend App. Currently This project u
     "limit": 5
   }`
 
+### Screenshot
+
+![ScreenShot](/screenshots/graphql_dashboard.png)
